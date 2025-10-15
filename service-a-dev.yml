@@ -1,2 +1,2 @@
-service.a.message: "Service A, dev mode."
+service.a.message: Service A, dev mode.
 service.a.port: 8081
