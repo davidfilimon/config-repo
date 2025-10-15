@@ -1,0 +1,2 @@
+service.a.message:"Service A, prod mode"
+service.a.port = 8080
